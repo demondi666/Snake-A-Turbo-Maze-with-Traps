@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 243d69dbb4a6b30488e6363453ea0d50, type: 3}
+  m_Name: Lv.30 FakeFood 4
+  m_EditorClassIdentifier: 
+  _mover: 1
+  _rotationY: 0
+  _speed: 4
+  _points:
+  - {x: -12, y: 0, z: 46}
+  - {x: -4.5, y: 0, z: 46}
+  _activatedType: 2
+  _timeActivation: 0
+  _activatedTriggers:
+  - {fileID: 11400000, guid: e1b68ccffeb9f2c458b61595e55ab080, type: 2}
+  - {fileID: 11400000, guid: 82cd669bc63dadf44990b40ee660a6fc, type: 2}
+  _deactivatedType: 0
+  _timeDeactivation: 0
+  _deactivatedTriggers: []
+  _spawnPoint: {x: -12, y: 0, z: 46}
+  _prefab: {fileID: 4733868911181353119, guid: c8410c99a740eb54b9fcae0bbb6dbe3a, type: 3}

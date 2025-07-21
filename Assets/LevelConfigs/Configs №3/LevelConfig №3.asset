@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0976b24af91ade4ebc47d0414aae357, type: 3}
+  m_Name: "LevelConfig \u21163"
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: 602528191600c474e84969d9d2962ee2, type: 2}
+  - {fileID: 11400000, guid: 96eb4f5faf706b74f98414693073afba, type: 2}
+  - {fileID: 11400000, guid: 1f3d9836b94a28e4a9cac161cd269937, type: 2}
+  - {fileID: 11400000, guid: 733127ceef2d97141bacaa736fa1f926, type: 2}
+  - {fileID: 11400000, guid: 38d11269a6c08a741b7a2afc6fe54e40, type: 2}
+  <LabelEng>k__BackingField: Cannons
+  <LabelRus>k__BackingField: "\u041F\u0443\u0448\u043A\u0438"

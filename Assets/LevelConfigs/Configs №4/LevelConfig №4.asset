@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0976b24af91ade4ebc47d0414aae357, type: 3}
+  m_Name: "LevelConfig \u21164"
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: a649da69aef932c459f1eee1c3fd50fe, type: 2}
+  - {fileID: 11400000, guid: 84205e87d31352045ac63204288c6c3f, type: 2}
+  - {fileID: 11400000, guid: f52a08a98c8f3094b855bafdf876bd7c, type: 2}
+  - {fileID: 11400000, guid: 5a8966c26379a1341a423ea5d5c76ee8, type: 2}
+  - {fileID: 11400000, guid: 57d811ae6bbbc6749b2d54582caa9ef8, type: 2}
+  <LabelEng>k__BackingField: Bones
+  <LabelRus>k__BackingField: "\u041A\u043E\u0441\u0442\u0438"

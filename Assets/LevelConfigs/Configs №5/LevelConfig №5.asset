@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0976b24af91ade4ebc47d0414aae357, type: 3}
+  m_Name: "LevelConfig \u21165"
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: eb8903c80cbe8c04ab2d2b2cd9b9dbfc, type: 2}
+  - {fileID: 11400000, guid: c010406afffaf0b4e85b2bf45e1dfbbe, type: 2}
+  - {fileID: 11400000, guid: 245c377850ad7a04dacdbf2d0693a566, type: 2}
+  - {fileID: 11400000, guid: 331f5f2d8fd79de4a8b005e869a165a1, type: 2}
+  - {fileID: 11400000, guid: eaf9b84efa91e1e47b7da63049e05bc7, type: 2}
+  <LabelEng>k__BackingField: Buttons
+  <LabelRus>k__BackingField: "\u041A\u043D\u043E\u043F\u043A\u0438"

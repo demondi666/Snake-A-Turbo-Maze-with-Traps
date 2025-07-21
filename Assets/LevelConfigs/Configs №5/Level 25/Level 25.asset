@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2c96fe430a6347ad11cf21d944e4b, type: 3}
+  m_Name: Level 25
+  m_EditorClassIdentifier: 
+  _effectorConfigs:
+  - {fileID: 11400000, guid: 6c48c86457ed4994ca677beff8f91e12, type: 2}
+  - {fileID: 11400000, guid: 7b26331a084a13b47abe4d27dc724255, type: 2}
+  - {fileID: 11400000, guid: 044a14491f4bd6f4f98caa7156ed1df1, type: 2}
+  - {fileID: 11400000, guid: 9c9c072fd6395c744b6ac75d58a10494, type: 2}
+  - {fileID: 11400000, guid: b4b43d09bf788b84f8c12e7b3ddb6661, type: 2}
+  - {fileID: 11400000, guid: 159db0b44aadc4b4d9041e043021cc85, type: 2}
+  - {fileID: 11400000, guid: 1d5166056b8cc6c4db89e4509d979c70, type: 2}
+  - {fileID: 11400000, guid: 2bdf0971984480945ad8f983ab877f58, type: 2}
+  - {fileID: 11400000, guid: ed07549789b884343b79b27ddc59c060, type: 2}
+  - {fileID: 11400000, guid: 8b7fd079b0bf1de4ead7f784943948de, type: 2}
+  - {fileID: 11400000, guid: 57c505181a0621044836f39941d4f6d9, type: 2}
+  - {fileID: 11400000, guid: 96aef030fc62f664bb86f6d19081db49, type: 2}
+  - {fileID: 11400000, guid: bef4177a0a83be94ea89775801166def, type: 2}
+  - {fileID: 11400000, guid: cbbee6d48f6868e41961c5c786d5b09e, type: 2}
+  - {fileID: 11400000, guid: 2587ef05eb12f334e9d0280459ea837a, type: 2}
+  - {fileID: 11400000, guid: 83e4aaa6a92bf46418f940c5d835e877, type: 2}
+  - {fileID: 11400000, guid: b82e05b52a3e7574b820af5f72dcbbcc, type: 2}
+  - {fileID: 11400000, guid: 6977bdbc35c28d040b9daf1e683b143f, type: 2}
+  - {fileID: 11400000, guid: a24230ef27424f143be4f36a826312a0, type: 2}
+  - {fileID: 11400000, guid: 9dc6f60caa3267f438f5ef686f284f77, type: 2}
+  - {fileID: 11400000, guid: 799b3a1a890b487479f46938d99ac727, type: 2}
+  - {fileID: 11400000, guid: a0f871a5516317141b31345d5e62c290, type: 2}
+  _snakeConfig: {fileID: 11400000, guid: 16e072d20cf6caf418bfe62aa0201214, type: 2}
+  <IsLevelOpen>k__BackingField: 0
+  <LabelEng>k__BackingField: 
+  <LabelRus>k__BackingField: 
+  <IsBeginnerLevel>k__BackingField: 0
+  <LevelNumber>k__BackingField: 4

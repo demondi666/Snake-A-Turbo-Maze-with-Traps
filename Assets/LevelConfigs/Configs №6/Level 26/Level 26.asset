@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2c96fe430a6347ad11cf21d944e4b, type: 3}
+  m_Name: Level 26
+  m_EditorClassIdentifier: 
+  _effectorConfigs:
+  - {fileID: 11400000, guid: a56ab0b96b8cf5443aa0c59a22e28c51, type: 2}
+  - {fileID: 11400000, guid: 462036172e1f98048b0b262fa345d32f, type: 2}
+  - {fileID: 11400000, guid: 51d7373b40c32de4083a71f6873b81b6, type: 2}
+  - {fileID: 11400000, guid: 66f5c95effafd954599e74ab171bd8d6, type: 2}
+  - {fileID: 11400000, guid: 16382bc545c19014e93429868612f811, type: 2}
+  - {fileID: 11400000, guid: ae5d90b06c2ebe84b8f340711e6ed234, type: 2}
+  - {fileID: 11400000, guid: c8e510a040bd01d42bc80ed92a19c714, type: 2}
+  - {fileID: 11400000, guid: 21b00a18a369d9c4c9519ad3b160f471, type: 2}
+  - {fileID: 11400000, guid: 3e890d358d4808040af0526823c918c7, type: 2}
+  - {fileID: 11400000, guid: c4e2e4f447fad4441afe98ea9d472420, type: 2}
+  - {fileID: 11400000, guid: d313bfcff1f80504fac39119aa556ea0, type: 2}
+  - {fileID: 11400000, guid: 6076400d6dd96454bb1fd36a133d7bfd, type: 2}
+  - {fileID: 11400000, guid: 3c16ca33d090d8b4490143fc0be8f0ad, type: 2}
+  _snakeConfig: {fileID: 11400000, guid: 0bb8578c089fce34ca60eb5d98d9d070, type: 2}
+  <IsLevelOpen>k__BackingField: 0
+  <LabelEng>k__BackingField: (6)Food
+  <LabelRus>k__BackingField: "(6)\u0415\u0434\u0430"
+  <IsBeginnerLevel>k__BackingField: 0
+  <LevelNumber>k__BackingField: 0

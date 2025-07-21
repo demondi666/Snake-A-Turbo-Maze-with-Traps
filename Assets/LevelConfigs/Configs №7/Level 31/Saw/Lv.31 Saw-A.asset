@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d99e51082ef0f0743bb3858328950d64, type: 3}
+  m_Name: Lv.31 Saw-A
+  m_EditorClassIdentifier: 
+  _mover: 1
+  _rotationY: 0
+  _speed: 1
+  _points:
+  - {x: -5, y: 0, z: -10}
+  - {x: -5, y: 0, z: 3}
+  _activatedType: 2
+  _timeActivation: 0
+  _activatedTriggers:
+  - {fileID: 11400000, guid: f810fe1a4ad47e34ab0852bd5f13107e, type: 2}
+  _deactivatedType: 0
+  _timeDeactivation: 0
+  _deactivatedTriggers:
+  - {fileID: 11400000, guid: 7cf35c7842e132e4db01d54e6f0e34f8, type: 2}
+  _spawnPoint: {x: -5, y: 0, z: -10}
+  _trap: {fileID: 1494484089869240693, guid: f30361e5170bfc64dbdecafc88107753, type: 3}

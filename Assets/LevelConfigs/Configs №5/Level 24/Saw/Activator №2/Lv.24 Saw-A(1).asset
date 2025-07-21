@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d99e51082ef0f0743bb3858328950d64, type: 3}
+  m_Name: Lv.24 Saw-A(1)
+  m_EditorClassIdentifier: 
+  _mover: 1
+  _rotationY: 90
+  _speed: 4
+  _points:
+  - {x: 11, y: 0, z: 65}
+  - {x: -8, y: 0, z: 65}
+  _activatedType: 2
+  _timeActivation: 0
+  _activatedTriggers:
+  - {fileID: 11400000, guid: 1e86960ddd25b9e4d80825523e3e05e8, type: 2}
+  _deactivatedType: 0
+  _timeDeactivation: 0
+  _deactivatedTriggers:
+  - {fileID: 11400000, guid: 0b93b08ccf48e3b48beee7f223301683, type: 2}
+  _spawnPoint: {x: 11, y: 0, z: 65}
+  _trap: {fileID: 1494484089869240693, guid: f30361e5170bfc64dbdecafc88107753, type: 3}

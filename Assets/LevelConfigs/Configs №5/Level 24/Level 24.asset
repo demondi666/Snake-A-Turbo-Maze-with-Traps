@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2c96fe430a6347ad11cf21d944e4b, type: 3}
+  m_Name: Level 24
+  m_EditorClassIdentifier: 
+  _effectorConfigs:
+  - {fileID: 11400000, guid: a6a679eebefc13c4496cc5c8e1c819b7, type: 2}
+  - {fileID: 11400000, guid: e37414514bfa5b645ad91ac638b94710, type: 2}
+  - {fileID: 11400000, guid: aa840a34c35781044b477b78e22ba0da, type: 2}
+  - {fileID: 11400000, guid: 9c091144a60422d4284f0a845508dc00, type: 2}
+  - {fileID: 11400000, guid: c8990140b2fe6b84c867e27ba97ca485, type: 2}
+  - {fileID: 11400000, guid: 186c91190e3e76a4696f0bc13ddb8c39, type: 2}
+  - {fileID: 11400000, guid: 09654d91ad39d8c4d8639952b85a385c, type: 2}
+  - {fileID: 11400000, guid: fae77678b7a065f49963e70858e347fa, type: 2}
+  - {fileID: 11400000, guid: 3b44761be5dc3d1408f4ae30cd61af85, type: 2}
+  - {fileID: 11400000, guid: 5bf0d842b9b836c4181c9e077b93c42a, type: 2}
+  - {fileID: 11400000, guid: e608872d93e4caf4fb160c8e5666fdc6, type: 2}
+  - {fileID: 11400000, guid: 478a2fef468b4fe4db9a7fb957e5a500, type: 2}
+  - {fileID: 11400000, guid: 045de2895a97caa4d8a1c02a22d8728f, type: 2}
+  - {fileID: 11400000, guid: b61c01d71a95ea844a8192225bfd86cd, type: 2}
+  - {fileID: 11400000, guid: ae160bbaf5f7d3546a68f334cbc36c5a, type: 2}
+  - {fileID: 11400000, guid: dacaf4e06503bdc458c8b4f708d8b563, type: 2}
+  - {fileID: 11400000, guid: d5548e0edc779d94c9308d88968e0864, type: 2}
+  - {fileID: 11400000, guid: d48438f7cbc385b4a9b47a64782c95fb, type: 2}
+  - {fileID: 11400000, guid: b240fd72c07bafc4289c6546b9eb7671, type: 2}
+  - {fileID: 11400000, guid: ee0d27850364b1c4b84e86d15e8422b3, type: 2}
+  - {fileID: 11400000, guid: a89254180b10d874a898d410ecc59d4e, type: 2}
+  _snakeConfig: {fileID: 11400000, guid: 8cd094174a31bd3499283603710e61bc, type: 2}
+  <IsLevelOpen>k__BackingField: 0
+  <LabelEng>k__BackingField: 
+  <LabelRus>k__BackingField: 
+  <IsBeginnerLevel>k__BackingField: 0
+  <LevelNumber>k__BackingField: 3

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2c96fe430a6347ad11cf21d944e4b, type: 3}
+  m_Name: Level 21
+  m_EditorClassIdentifier: 
+  _effectorConfigs:
+  - {fileID: 11400000, guid: fc4254ef23702084892cc201b5651f70, type: 2}
+  - {fileID: 11400000, guid: 0fec3cb93492b184cbd5e7a64523475f, type: 2}
+  - {fileID: 11400000, guid: 4ab87023ddcf7534d99350124d2b7bdc, type: 2}
+  - {fileID: 11400000, guid: ba48d894ddfc3a14785459a5a1a910de, type: 2}
+  - {fileID: 11400000, guid: 089050ac300facd45aa3a1e112212c98, type: 2}
+  - {fileID: 11400000, guid: b035b499cd5c95344b7aca2f1cd4a62d, type: 2}
+  - {fileID: 11400000, guid: a037403be4dd99f4eb90181f2855cd69, type: 2}
+  - {fileID: 11400000, guid: 7de2d85876c856643bfc041c7449168b, type: 2}
+  _snakeConfig: {fileID: 11400000, guid: f5ecd2ecec1b5df4b9974bf198638030, type: 2}
+  <IsLevelOpen>k__BackingField: 0
+  <LabelEng>k__BackingField: (5)Buttons
+  <LabelRus>k__BackingField: "(5)\u041A\u043D\u043E\u043F\u043A\u0438"
+  <IsBeginnerLevel>k__BackingField: 0
+  <LevelNumber>k__BackingField: 0

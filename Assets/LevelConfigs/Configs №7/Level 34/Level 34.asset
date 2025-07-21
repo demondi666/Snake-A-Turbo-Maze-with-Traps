@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af2c96fe430a6347ad11cf21d944e4b, type: 3}
+  m_Name: Level 34
+  m_EditorClassIdentifier: 
+  _effectorConfigs:
+  - {fileID: 11400000, guid: 606a04939d3a50646aff574874fd5bed, type: 2}
+  - {fileID: 11400000, guid: 409717e819448424f93706c7ed73a8df, type: 2}
+  - {fileID: 11400000, guid: a27d88acae164c146817a1119a32233d, type: 2}
+  - {fileID: 11400000, guid: 6a34213912834364b90f8b1a3ae91083, type: 2}
+  - {fileID: 11400000, guid: 583111aca694a8e459d39e727891026b, type: 2}
+  - {fileID: 11400000, guid: 0610a7a383a109d4b890a6852a3862dc, type: 2}
+  - {fileID: 11400000, guid: 851d5fd1c5899874b9b7d79e85cb6265, type: 2}
+  - {fileID: 11400000, guid: d85b4fd317a70f14fa2b20443633a2a1, type: 2}
+  - {fileID: 11400000, guid: 00de63cfdead45f43915dcb4d598c125, type: 2}
+  - {fileID: 11400000, guid: 784adce7fbe48f1419c4d1ad11190e83, type: 2}
+  - {fileID: 11400000, guid: 5fd353750c329f74e98e0ff6ecce5b2a, type: 2}
+  - {fileID: 11400000, guid: 9fdd6cde7d80b6a43932276aa72f0f60, type: 2}
+  - {fileID: 11400000, guid: 0558edb38b73f72449532f99e166c61e, type: 2}
+  - {fileID: 11400000, guid: 70b8b0b3278fe9f419ec94d360f5532b, type: 2}
+  - {fileID: 11400000, guid: 0178134963631044593fb900d807fc00, type: 2}
+  - {fileID: 11400000, guid: b1c7396bead64564595e26dbe7598a2e, type: 2}
+  - {fileID: 11400000, guid: 8bbfa0d69a5612147984f444b04423a1, type: 2}
+  - {fileID: 11400000, guid: 9281002ff7c621d42b2ac87830f4dd5c, type: 2}
+  - {fileID: 11400000, guid: 0962718ae06e72144ad1340c99a2d523, type: 2}
+  - {fileID: 11400000, guid: 3cd20fe7fe2b8c64a8171148a2a61670, type: 2}
+  _snakeConfig: {fileID: 11400000, guid: 2a960363076dda64ba5309fb14f4bc44, type: 2}
+  <IsLevelOpen>k__BackingField: 0
+  <LabelEng>k__BackingField: 
+  <LabelRus>k__BackingField: 
+  <IsBeginnerLevel>k__BackingField: 0
+  <LevelNumber>k__BackingField: 3

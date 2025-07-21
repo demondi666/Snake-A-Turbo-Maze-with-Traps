@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d99e51082ef0f0743bb3858328950d64, type: 3}
+  m_Name: Lv.2 Spike-A 1
+  m_EditorClassIdentifier: 
+  _mover: 0
+  _rotationY: 0
+  _speed: 0
+  _points: []
+  _activatedType: 2
+  _timeActivation: 0
+  _activatedTriggers:
+  - {fileID: 11400000, guid: 9d00f607e7b473e4c853c8e38f063547, type: 2}
+  _deactivatedType: 0
+  _timeDeactivation: 0
+  _deactivatedTriggers: []
+  _spawnPoint: {x: -3, y: 0, z: 15}
+  _trap: {fileID: 6722448670980634743, guid: 76f510cb44676d047b5a6149d6b1d628, type: 3}

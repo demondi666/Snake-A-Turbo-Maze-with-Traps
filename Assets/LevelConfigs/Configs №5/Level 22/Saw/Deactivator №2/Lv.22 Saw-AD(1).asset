@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d99e51082ef0f0743bb3858328950d64, type: 3}
+  m_Name: Lv.22 Saw-AD(1)
+  m_EditorClassIdentifier: 
+  _mover: 1
+  _rotationY: 90
+  _speed: 7
+  _points:
+  - {x: 4, y: 0, z: -3}
+  - {x: 4, y: 0, z: 15}
+  _activatedType: 2
+  _timeActivation: 0
+  _activatedTriggers:
+  - {fileID: 11400000, guid: d04f6624d607c02469ddecdf1fe1e95b, type: 2}
+  _deactivatedType: 0
+  _timeDeactivation: 0
+  _deactivatedTriggers:
+  - {fileID: 11400000, guid: 27d5fb0840bbbae4899170001132ca40, type: 2}
+  _spawnPoint: {x: 4, y: 0, z: -3}
+  _trap: {fileID: 1494484089869240693, guid: f30361e5170bfc64dbdecafc88107753, type: 3}

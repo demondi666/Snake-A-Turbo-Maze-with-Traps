@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0976b24af91ade4ebc47d0414aae357, type: 3}
+  m_Name: "LevelConfig \u21166"
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: b7bfadd783fd6de4197d57a2c4c7318e, type: 2}
+  - {fileID: 11400000, guid: 5b2d29a96f3366b4b80717375b52f861, type: 2}
+  - {fileID: 11400000, guid: 6120b5a36d3c7c54f95c5c6fee0937b3, type: 2}
+  - {fileID: 11400000, guid: 41b23aae7795a074a9e2b8bce9a3d3a8, type: 2}
+  - {fileID: 11400000, guid: eee71a0573d4d8442b3db0abf1d68279, type: 2}
+  <LabelEng>k__BackingField: Food
+  <LabelRus>k__BackingField: "\u0415\u0434\u0430"
